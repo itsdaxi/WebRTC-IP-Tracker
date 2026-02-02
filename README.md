@@ -11,9 +11,11 @@ WebRTC Leak Sniffer is a powerful security research tool designed to monitor and
 - **Hotkey Support**: Press `R` to quickly reset the tracker and clear cached data.
 
 ## 🎭 Showcase
-<img width="261" height="92" alt="image" src="https://github.com/user-attachments/assets/ec00dc28-3f7d-49db-979d-cb96b307324f" />
+<img width="261" height="92" alt="Screenshot 2026-02-02 221339" src="https://github.com/user-attachments/assets/8a62c046-20fb-4cf7-be15-6a3e9b4581f6" />
 
-<img width="261" height="184" alt="image" src="https://github.com/user-attachments/assets/88c541f8-2f7c-4cd9-9d6c-7e4172a0771b" />
+
+<img width="261" height="184" alt="image" src="https://github.com/user-attachments/assets/b592f860-fee0-4f7a-8cd1-9d0cb2051104" />
+
 
 ## 🛠 Prerequisites (Important!)
 To ensure the script works correctly on all pages, you must configure your Browser/Tampermonkey settings:
