@@ -30,7 +30,7 @@ To ensure the script works correctly on all pages, you must configure your Brows
 ## 📖 Mini Tutorial: How to Install
 1. **Install Manager**: Download [Tampermonkey](https://www.tampermonkey.net/) for your browser.
 2. **Create Script**: Click the Tampermonkey icon, then select **"Create a new script..."**.
-3. **Paste Code**: Delete the default template and paste the code from `webrtc_sniffer.user.js`.
+3. **Paste Code**: Delete the default template and paste the code from `webrtc_ip_tracker.user.js`.
 4. **Add API Key**: 
    - Sign up for a free key at [ipgeolocation.io](https://ipgeolocation.io/).
    - Find the line `const apiKey = "YOUR_API_KEY_HERE";` and replace it with your real key.
@@ -39,7 +39,7 @@ To ensure the script works correctly on all pages, you must configure your Brows
 
 ## ⚖️ Disclaimer
 **For Educational Purposes Only.**
-This project was created to demonstrate privacy vulnerabilities related to WebRTC leaks. The author (**Daxi**) is not responsible for any misuse, illegal activities, or violations of third-party Terms of Service performed with this tool. Use it at your own risk for personal privacy auditing and security research.
+This project was created to demonstrate privacy vulnerabilities related to WebRTC leaks. The author (**itsdaxi**) is not responsible for any misuse, illegal activities, or violations of third-party Terms of Service performed with this tool. Use it at your own risk for personal privacy auditing and security research.
 
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
